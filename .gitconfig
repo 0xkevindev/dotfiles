@@ -1,0 +1,23 @@
+[user]
+    name = kevin
+    email = snowdenxedward@gmail.com
+
+[core]
+    editor = nvim
+    autocrlf = input
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit -m
+    lg = log --oneline --graph --decorate
+
+[push]
+    default = simple
+
+[init]
+    defaultBranch = main
